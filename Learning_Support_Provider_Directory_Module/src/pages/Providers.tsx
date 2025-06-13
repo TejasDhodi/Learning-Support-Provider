@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { type Provider, providerService } from '../services/providerService';
 import ProviderCard from '../components/ProviderCard';
 import SearchBar from '../components/SearchBar';
