@@ -1,0 +1,86 @@
+[
+    {
+      "id": "1",
+      "name": "Learning Bridge Academy",
+      "specialization": "Dyslexia Support",
+      "location": "Dubai Marina",
+      "rating": 4.8,
+      "shortDescription": "Specialized dyslexia intervention programs with proven methodologies",
+      "longDescription": "Learning Bridge Academy is a premier learning support center specializing in dyslexia intervention. Our team of certified specialists uses evidence-based methodologies including Orton-Gillingham and Wilson Reading System to help children overcome reading challenges. We provide individualized assessment, structured literacy programs, and ongoing support for families.",
+      "contactEmail": "info@learningbridge.ae",
+      "phoneNumber": "+971 4 123 4567",
+      "experience": "8 years"
+    },
+    {
+      "id": "2",
+      "name": "Focus Mind Center",
+      "specialization": "ADHD Coaching",
+      "location": "Jumeirah",
+      "rating": 4.9,
+      "shortDescription": "Comprehensive ADHD coaching and behavioral support services",
+      "longDescription": "Focus Mind Center offers comprehensive ADHD coaching services for children and teenagers. Our experienced team provides behavioral interventions, executive function training, and family support strategies. We use evidence-based approaches to help children develop self-regulation skills, improve focus, and achieve academic success.",
+      "contactEmail": "support@focusmind.ae",
+      "phoneNumber": "+971 4 234 5678",
+      "experience": "12 years"
+    },
+    {
+      "id": "3",
+      "name": "Spectrum Learning Hub",
+      "specialization": "Autism Support",
+      "location": "Al Barsha",
+      "rating": 4.7,
+      "shortDescription": "Autism spectrum disorder support with individualized programs",
+      "longDescription": "Spectrum Learning Hub specializes in supporting children with autism spectrum disorders. We offer Applied Behavior Analysis (ABA), social skills training, and sensory integration therapy. Our multidisciplinary team works closely with families to create individualized education plans that promote independence and social development.",
+      "contactEmail": "hello@spectrumhub.ae",
+      "phoneNumber": "+971 4 345 6789",
+      "experience": "10 years"
+    },
+    {
+      "id": "4",
+      "name": "Academic Success Center",
+      "specialization": "Learning Disabilities",
+      "location": "Business Bay",
+      "rating": 4.6,
+      "shortDescription": "Comprehensive support for various learning disabilities and challenges",
+      "longDescription": "Academic Success Center provides comprehensive support for children with various learning disabilities including dyscalculia, dysgraphia, and processing disorders. Our team of educational therapists and special education specialists work together to create personalized learning plans that address each child's unique needs and learning style.",
+      "contactEmail": "info@academicsuccess.ae",
+      "phoneNumber": "+971 4 456 7890",
+      "experience": "15 years"
+    },
+    {
+      "id": "5",
+      "name": "Language Pathways Clinic",
+      "specialization": "Speech Therapy",
+      "location": "Downtown Dubai",
+      "rating": 4.9,
+      "shortDescription": "Speech and language therapy for communication disorders",
+      "longDescription": "Language Pathways Clinic offers specialized speech and language therapy services for children with communication disorders. Our certified speech-language pathologists provide assessment and treatment for articulation disorders, language delays, stuttering, and voice disorders. We use play-based therapy and family-centered approaches.",
+      "contactEmail": "therapy@languagepathways.ae",
+      "phoneNumber": "+971 4 567 8901",
+      "experience": "9 years"
+    },
+    {
+      "id": "6",
+      "name": "Mindful Learning Solutions",
+      "specialization": "Executive Function",
+      "location": "DIFC",
+      "rating": 4.8,
+      "shortDescription": "Executive function coaching and study skills development",
+      "longDescription": "Mindful Learning Solutions specializes in executive function coaching for students who struggle with organization, time management, and study skills. Our coaches work with children and teenagers to develop practical strategies for academic success, including planning, prioritizing, and self-monitoring techniques.",
+      "contactEmail": "contact@mindfullearning.ae",
+      "phoneNumber": "+971 4 678 9012",
+      "experience": "6 years"
+    },
+    {
+      "id": "7",
+      "name": "Bright Minds Therapy",
+      "specialization": "Occupational Therapy",
+      "location": "Mirdif",
+      "rating": 4.7,
+      "shortDescription": "Occupational therapy for sensory and motor skill development",
+      "longDescription": "Bright Minds Therapy provides occupational therapy services focusing on sensory integration, fine motor skills, and daily living activities. Our pediatric occupational therapists help children develop the skills they need for school success and independent living through evidence-based interventions and family collaboration.",
+      "contactEmail": "info@brightminds.ae",
+      "phoneNumber": "+971 4 789 0123",
+      "experience": "11 years"
+    }
+  ]
