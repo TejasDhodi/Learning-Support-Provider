@@ -1,4 +1,3 @@
-import React from 'react';
 import { Star, MapPin, Mail, Phone } from 'lucide-react';
 import type { Provider } from '../services/providerService';
 import { Link } from 'react-router-dom';
